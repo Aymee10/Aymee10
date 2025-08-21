@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Springboot**
 
-- 💬 Ask me about **React, Java, Scrum**
+- 💬 Ask me about **React, Java, PHP, Scrum**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/aymee-reina-781b98353/](https://www.linkedin.com/in/aymee-reina-781b98353/)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
